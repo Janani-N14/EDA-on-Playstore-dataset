@@ -70,8 +70,11 @@ The dataset contains information about apps on the Google Play Store. It consist
 
 ## Results
 
-- **Most Popular Category:** [Result from analysis]
-- **App with Largest Number of Installs:** [Result from analysis]
-- **App with Largest Size:** [Result from analysis]
-
+- **Most Popular Category:** Game
+- **App with Largest Number of Installs:**
+   Most popular game is Subway Surfers.
+   Most popular communication app is Hangouts.
+   Most popular productivity app is Google Drive.
+   Most popular social app is Instagram.
+- **Number of five rated apps on Google Play store** 271
 
